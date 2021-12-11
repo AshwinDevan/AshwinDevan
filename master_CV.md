@@ -52,4 +52,4 @@ UC Berkeley Open Computing Facility.
 Berkeley, California. Fall 2021 to Present.
 
 - Contributed to managing infrastructure that enabled over 1,500 UC Berkeley student organizations to host their web applications on local infrastructure free of charge.
-- Installed a new high-performance computing cluster for use in student research, and supported student groups with the deployment of machine learning programs to the available hardware.
+- Installed a new high-performance computing cluster for use in student research, and supported student groups in the deployment of machine learning programs to available hardware.
